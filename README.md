@@ -9,14 +9,8 @@
 <div flex align="center">
 <a href="hhttps://github.com/alangt22">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alangt22&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=alangt22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
   
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alangt22&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-  
-## Tecnologias:
+## Principais Tecnologias:
 
 <div flex>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -24,12 +18,26 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="40" height="40"/>
 </div>
+
+## 🚀 Projetos em Destaque
+
+### [Get a Pet](link-do-projeto)
+Sistema completo para **adoção de pets**, que facilita a interação entre adotantes e pets disponíveis. Desenvolvido com foco na simplicidade e eficiência do usuário, permitindo fácil navegação e adoção.
+
+### [Dev Burguer](https://alnburguer-2.netlify.app)
+Aplicação de **cardápio online** para restaurantes. O sistema permite aos clientes visualizar o menu de forma digital, com opções interativas e modernas para a escolha de itens.
+
+### [Landing Page - PetShop](https://pet-dev.netlify.app)
+**Landing page** responsiva para **PetShop**, focada em promover produtos e serviços para pet lovers. A página foi projetada com atenção à experiência do usuário, utilizando técnicas de design modernas e funcionais.
+### [PartyTime](https://partytime-curso.netlify.app)
+**PartyTime** é uma plataforma para organizar eventos e festas. A aplicação permite aos usuários criar e gerenciar festas, definir datas, temas. tudo de forma fácil e intuitiva
+
+
+
 
 ## Contatos:
 
