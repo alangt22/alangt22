@@ -25,7 +25,7 @@
 
 ## 🚀 Projetos em Destaque
 
-### [Get a Pet](link-do-projeto)
+### [Get a Pet](https://get-a-pet-aln.netlify.app)
 Sistema completo para **adoção de pets**, que facilita a interação entre adotantes e pets disponíveis. Desenvolvido com foco na simplicidade e eficiência do usuário, permitindo fácil navegação e adoção.
 
 ### [Dev Burguer](https://alnburguer-2.netlify.app)
