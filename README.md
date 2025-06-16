@@ -26,6 +26,23 @@
 
 <div align="center">
 
+### 🗓️ **[AgendaPro](https://www.agendapro.dev/)**  
+Sistema de agendamento online (SaaS) para profissionais e empresas, com plano gratuito e assinatura PRO.
+
+**Funcionalidades:**  
+Criação de conta com autenticação  
+Definição de horários de funcionamento  
+Cadastro de serviços e valores  
+Perfil personalizável  
+Assinatura de plano Básico ou PRO  
+Link exclusivo para agendamentos  
+Interface moderna e responsiva  
+
+**Tecnologias:**  
+Next.js · React · TypeScript · Tailwind CSS · Shadcn UI · NextAuth.js · Prisma · PostgreSQL · Stripe · Cloudinary · Zod · React Hook Form
+
+---
+
 ### 🧩 **[ApoiaDEV](https://apoia-dev-brown.vercel.app/)**  
 Plataforma para criadores de conteúdo receberem apoio financeiro com páginas personalizadas.
 
