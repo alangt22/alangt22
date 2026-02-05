@@ -1,121 +1,86 @@
-<h2 align="center">Olá, me chamo Alan! 👋</h2>
+<h2 align="center">Alan Nunes</h2>
 
-<h3 align="center">Bem-vindo ao meu perfil GitHub</h3>
+<p align="center">
+Full Stack Developer | TypeScript | Next.js | Node.js | SaaS & Produtos Digitais
+</p>
 
-<div align="center">
-  <a href="https://github.com/alangt22">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alangt22&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
-##
-
-<div align="center">
-  <h3>🚀 Principais Tecnologias:</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="40" height="40"/>
-</div>
-
-##
-
-<div align="center">
-
-### 🗓️ **[AgendaPro](https://www.agendapro.dev/)**  
-Sistema de agendamento online (SaaS) para profissionais e empresas, com plano gratuito e assinatura PRO.
-
-**Funcionalidades:**  
-Criação de conta com autenticação  
-Definição de horários de funcionamento  
-Cadastro de serviços e valores  
-Perfil personalizável  
-Assinatura de plano Básico ou PRO  
-Link exclusivo para agendamentos  
-Interface moderna e responsiva  
-
-**Tecnologias:**  
-Next.js · React · TypeScript · Tailwind CSS · Shadcn UI · NextAuth.js · Prisma · PostgreSQL · Stripe · Cloudinary · Zod · React Hook Form
+<p align="center">
+Desenvolvedor full stack com foco na construção de aplicações web modernas, escaláveis e orientadas a produto.
+Experiência no desenvolvimento de SaaS completos, incluindo autenticação, pagamentos recorrentes, APIs, banco de dados
+e deploy em produção.
+</p>
 
 ---
 
-### 🧩 **[ApoiaDEV](https://apoia-dev-brown.vercel.app/)**  
-Plataforma para criadores de conteúdo receberem apoio financeiro com páginas personalizadas.
+## Tecnologias Principais
 
-**Funcionalidades:**  
-Cadastro e autenticação de usuários  
-Edição de perfil (nome, bio, imagem, cor, link público)  
-Link exclusivo para compartilhamento  
-Integração com Stripe (pagamentos)  
-Upload de imagens via Cloudinary  
-Experiência fluida e responsiva  
-
-**Tecnologias:**  
-Next.js · React · Tailwind CSS · shadcn/ui · NextAuth.js · Prisma · Neon · Cloudinary · Stripe · Sonner · TanStack
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+</p>
 
 ---
 
-### 🚗 **[ALNMotors](https://web-carros-seven.vercel.app/login)**  
-Plataforma de e-commerce para compra e venda de veículos com experiência moderna.
+## Projetos em Destaque
 
-**Funcionalidades:**  
-Cadastro/login de usuários  
-Cadastro e listagem de veículos com filtros  
-Visualização detalhada de anúncios  
-Contato com vendedor via WhatsApp  
-Totalmente responsivo  
+### BarberPRO — SaaS de Gestão para Barbearias
+Sistema completo de gestão com modelo de assinatura e pagamentos recorrentes.
 
-**Tecnologias:**  
-React · TypeScript · Vite · Tailwind CSS · Firebase · React Hook Form · Zod · Context API · React Hot Toast
+**Destaques técnicos:**
+- Autenticação segura com JWT
+- Pagamentos e assinaturas com Stripe
+- Dashboard com métricas em tempo real
+- API RESTful versionada
+- Type safety end-to-end com TypeScript
 
----
+**Stack:**  
+Node.js · TypeScript · Express · Prisma · PostgreSQL · Next.js · Stripe
 
-### 🐾 **[PetShop - Carrinho de Compras](https://petshop-dev-psi.vercel.app/)**  
-Carrinho de compras moderno voltado para petshops com ótima experiência de usuário.
-
-**Funcionalidades:**  
-Adição e remoção de produtos do carrinho  
-Exibição de produtos para pets  
-Navegação entre páginas com React Router  
-Design totalmente responsivo  
-Feedback com React Hot Toast  
-Componentes estilizados com ShadCN e Tailwind  
-
-**Tecnologias:**  
-React · TypeScript · Tailwind CSS · React Router DOM · React Hot Toast · ShadCN UI
+🔗 Frontend: https://github.com/alangt22/Frontend-BarberPRO  
+🔗 Backend: https://github.com/alangt22/Backend-BarberPRO  
+🌐 Deploy: https://frontend-barber-pro.vercel.app/
 
 ---
 
-### 🎉 **[DevLink](https://linketree-gr3bdpvet-alangt22s-projects.vercel.app/)**  
-Projeto inspirado no Linktree para centralizar múltiplos links em uma única página personalizada.
+### AgendaPro — SaaS de Agendamento Online
+Plataforma de agendamentos para profissionais e empresas com planos gratuito e PRO.
 
-**Funcionalidades:**  
-Criação de perfis personalizados (foto, nome, links)  
-Interface amigável e responsiva  
-Personalização de cores e estilos  
-Integração com Firebase (autenticação e armazenamento)  
-Feedbacks com React Toastify  
+**Destaques:**
+- Sistema de horários e serviços
+- Assinaturas com Stripe
+- Autenticação com NextAuth
+- Validação de dados com Zod
+- UI moderna e responsiva
 
-**Tecnologias:**  
-React · TypeScript · Vite · Tailwind CSS · Firebase · React Router DOM · React Toastify · React Icons
+**Stack:**  
+Next.js · TypeScript · Prisma · PostgreSQL · Stripe · Tailwind · Shadcn UI
 
-</div>
+🌐 https://www.agendapro.dev/
 
-##
+---
 
-<div align="center">
-  <h3>📬 Contatos</h3>
+### ApoiaDEV — Plataforma de Apoio Financeiro
+Aplicação para criadores de conteúdo receberem apoio financeiro com páginas personalizadas.
+
+**Stack:**  
+Next.js · TypeScript · Prisma · Stripe · Cloudinary · Neon
+
+🌐 https://apoia-dev-brown.vercel.app/
+
+---
+
+## Contato
+
+<p align="center">
   <a href="mailto:alansilva2896@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/alan-nunes-7b3440273/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/alan-nunes-7b3440273/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://wa.me/5511940094503" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</div>
+</p>
