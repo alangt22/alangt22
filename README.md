@@ -64,16 +64,6 @@ Next.js · TypeScript · Prisma · PostgreSQL · Stripe · Tailwind · Shadcn UI
 
 ---
 
-### ApoiaDEV — Plataforma de Apoio Financeiro
-Aplicação para criadores de conteúdo receberem apoio financeiro com páginas personalizadas.
-
-**Stack:**  
-Next.js · TypeScript · Prisma · Stripe · Cloudinary · Neon
-
-🌐 https://apoia-dev-brown.vercel.app/
-
----
-
 ## Contato
 
 <p align="center">
