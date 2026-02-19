@@ -1,7 +1,7 @@
 <h2 align="center">Alan Nunes</h2>
 
 <p align="center">
-Full Stack Developer | TypeScript | Next.js | Node.js | SaaS & Produtos Digitais
+Full Stack Developer  |  Next.Js | JavaScript | TypeScript | React.Js | TailwindCSS |  Node.js | Express |  MongoDB | PostgreSQL | Firebase
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ Plataforma de agendamentos para profissionais e empresas com planos gratuito e P
 Next.js · TypeScript · Prisma · PostgreSQL · Stripe · Tailwind · Shadcn UI
 
 🌐 https://www.agendapro.dev/
-
+🔗 https://github.com/alangt22/Agenda-Pro
 ---
 
 ## Contato
