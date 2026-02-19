@@ -1,18 +1,36 @@
-<h2 align="center">Alan Nunes</h2>
+<h1 align="center">Alan Nunes</h1>
 
 <p align="center">
-Full Stack Developer  |  Next.Js | JavaScript | TypeScript | React.Js | TailwindCSS |  Node.js | Express |  MongoDB | PostgreSQL | Firebase
+  <strong>Full Stack Developer</strong>
 </p>
 
 <p align="center">
-Desenvolvedor full stack com foco na construção de aplicações web modernas, escaláveis e orientadas a produto.
-Experiência no desenvolvimento de SaaS completos, incluindo autenticação, pagamentos recorrentes, APIs, banco de dados
-e deploy em produção.
+  Next.js • TypeScript • React • Node.js • PostgreSQL • SaaS Architecture
 </p>
 
 ---
 
-## Tecnologias Principais
+## 👨‍💻 Sobre Mim
+
+Desenvolvedor Full Stack focado na construção de aplicações web modernas, escaláveis e orientadas a produto.
+
+Experiência no desenvolvimento de aplicações completas, atuando desde a concepção da arquitetura até o deploy em produção, incluindo:
+
+- Autenticação e controle de permissões
+
+- Integração com APIs externas e gateways de pagamento
+
+- Modelagem de banco de dados relacional
+
+- Desenvolvimento de APIs RESTful
+
+- Gerenciamento de estado e validação de dados
+
+- Deploy e configuração de ambiente
+
+---
+
+## 🚀 Tecnologias Principais
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40"/>
@@ -24,47 +42,105 @@ e deploy em produção.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
 </p>
 
+### Stack Principal
+
+- **Frontend:** Next.js · React · TypeScript · TailwindCSS  
+- **Backend:** Node.js · Express · API Routes  
+- **Banco de Dados:** PostgreSQL · MongoDB  
+- **ORM:** Prisma  
+- **Autenticação:** NextAuth · JWT  
+- **Pagamentos:** Stripe (subscriptions, webhooks)  
+
 ---
 
-## Projetos em Destaque
+# 📌 Projetos em Destaque
 
-### BarberPRO — SaaS de Gestão para Barbearias
+---
+
+## 🧔 BarberPRO — SaaS de Gestão para Barbearias
+
 Sistema completo de gestão com modelo de assinatura e pagamentos recorrentes.
 
-**Destaques técnicos:**
-- Autenticação segura com JWT
-- Pagamentos e assinaturas com Stripe
-- Dashboard com métricas em tempo real
-- API RESTful versionada
-- Type safety end-to-end com TypeScript
+### 🔹 Principais Implementações
 
-**Stack:**  
-Node.js · TypeScript · Express · Prisma · PostgreSQL · Next.js · Stripe
+- Autenticação segura com JWT  
+- Sistema de assinaturas com Stripe  
+- Dashboard com métricas em tempo real  
+- API RESTful versionada  
+- Type Safety end-to-end com TypeScript  
 
-🔗 Frontend: https://github.com/alangt22/Frontend-BarberPRO  
-🔗 Backend: https://github.com/alangt22/Backend-BarberPRO  
-🌐 Deploy: https://frontend-barber-pro.vercel.app/
+### 🛠 Stack
+
+Node.js · TypeScript · Express · Prisma · PostgreSQL · Next.js · Stripe  
+
+🔗 Frontend:  
+https://github.com/alangt22/Frontend-BarberPRO  
+
+🔗 Backend:  
+https://github.com/alangt22/Backend-BarberPRO  
+
+🌐 Deploy:  
+https://frontend-barber-pro.vercel.app/
 
 ---
 
-### AgendaPro — SaaS de Agendamento Online
-Plataforma de agendamentos para profissionais e empresas com planos gratuito e PRO.
+## 📅 AgendaPRO — SaaS de Agendamento Online
 
-**Destaques:**
-- Sistema de horários e serviços
-- Assinaturas com Stripe
-- Autenticação com NextAuth
-- Validação de dados com Zod
-- UI moderna e responsiva
+Plataforma SaaS para gestão de agendamentos com plano gratuito e plano PRO.
 
-**Stack:**  
-Next.js · TypeScript · Prisma · PostgreSQL · Stripe · Tailwind · Shadcn UI
+### 🔹 Principais Implementações
 
-🌐 https://www.agendapro.dev/
-🔗 https://github.com/alangt22/Agenda-Pro
+- Sistema completo de horários e serviços  
+- Modelo Freemium com upgrade automático  
+- Integração com Stripe (subscriptions + webhooks)  
+- Autenticação com NextAuth  
+- Validação robusta com Zod  
+- Arquitetura com Server Components  
+- SEO otimizado  
+
+### 🛠 Stack
+
+Next.js · TypeScript · Prisma · PostgreSQL · Stripe · Tailwind · Shadcn UI  
+
+🌐 Deploy:  
+https://www.agendapro.dev/
+
+🔗 Repositório:  
+https://github.com/alangt22/Agenda-Pro  
+
 ---
 
-## Contato
+---
+
+## 🍕 Pizzaria App — Sistema de Pedidos Online
+
+Aplicação frontend para gerenciamento e realização de pedidos em uma pizzaria, com foco em usabilidade, performance e organização de estado.
+
+### 🔹 Principais Implementações
+
+- Interface moderna e responsiva  
+- Consumo de API para listagem e criação de pedidos  
+- Gerenciamento de estado da aplicação  
+- Autenticação de usuário  
+- Validação de formulários  
+- Organização modular de componentes  
+
+### 🛠 Stack
+
+React · TypeScript · Context API · TailwindCSS · Axios  
+
+🔗 Frontend:  
+https://github.com/alangt22/Pizzaria-frontend  
+
+🔗 Backend:  
+https://github.com/alangt22/Pizzaria-Backend  
+
+🌐 Deploy:  
+https://pizzaria-web-teal.vercel.app/
+
+
+
+# 📬 Contato
 
 <p align="center">
   <a href="mailto:alansilva2896@gmail.com">
