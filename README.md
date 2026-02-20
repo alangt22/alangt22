@@ -12,44 +12,44 @@
 
 ## 👨‍💻 Sobre Mim
 
-Desenvolvedor Full Stack focado na construção de aplicações web modernas, escaláveis e orientadas a produto.
+Desenvolvedor Full Stack com foco na construção de aplicações SaaS modernas, escaláveis e orientadas a produto.
 
-Experiência no desenvolvimento de aplicações completas, atuando desde a concepção da arquitetura até o deploy em produção, incluindo:
+Experiência no desenvolvimento de sistemas completos, atuando desde a modelagem do banco de dados e definição da arquitetura até a implementação do frontend e deploy em produção.
 
-- Autenticação e controle de permissões
+**Principais competências:**
 
-- Integração com APIs externas e gateways de pagamento
-
-- Modelagem de banco de dados relacional
-
-- Desenvolvimento de APIs RESTful
-
-- Gerenciamento de estado e validação de dados
-
-- Deploy e configuração de ambiente
+- Arquitetura SaaS
+- APIs RESTful com Node.js e TypeScript
+- Autenticação e controle de permissões (JWT / NextAuth)
+- Integração com Stripe (subscriptions e webhooks)
+- Modelagem com Prisma + PostgreSQL
+- Type Safety end-to-end
+- Deploy e ambientes de produção
 
 ---
 
-## 🚀 Tecnologias Principais
+## 🚀 Stack Principal
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
-</p>
+### Frontend
+- Next.js  
+- React  
+- TypeScript  
+- TailwindCSS  
+- Shadcn UI  
 
-### Stack Principal
+### Backend
+- Node.js  
+- Express  
+- Prisma  
 
-- **Frontend:** Next.js · React · TypeScript · TailwindCSS  
-- **Backend:** Node.js · Express · API Routes  
-- **Banco de Dados:** PostgreSQL · MongoDB  
-- **ORM:** Prisma  
-- **Autenticação:** NextAuth · JWT  
-- **Pagamentos:** Stripe (subscriptions, webhooks)  
+### Banco de Dados
+- PostgreSQL  
+- MongoDB  
+
+### Autenticação & Pagamentos
+- NextAuth  
+- JWT  
+- Stripe  
 
 ---
 
@@ -59,86 +59,95 @@ Experiência no desenvolvimento de aplicações completas, atuando desde a conce
 
 ## 🧔 BarberPRO — SaaS de Gestão para Barbearias
 
-Sistema completo de gestão com modelo de assinatura e pagamentos recorrentes.
+Sistema SaaS com modelo de assinatura e gestão completa para barbearias.
 
-### 🔹 Principais Implementações
+### Principais Implementações
 
-- Autenticação segura com JWT  
-- Sistema de assinaturas com Stripe  
-- Dashboard com métricas em tempo real  
-- API RESTful versionada  
-- Type Safety end-to-end com TypeScript  
+- Autenticação com JWT  
+- Sistema de assinaturas com Stripe (Webhooks)  
+- API REST estruturada  
+- Dashboard com métricas  
+- Arquitetura escalável com Prisma + PostgreSQL  
+- TypeScript end-to-end  
 
-### 🛠 Stack
+### Stack
+Node.js · Express · TypeScript · Prisma · PostgreSQL · Next.js · Stripe  
 
-Node.js · TypeScript · Express · Prisma · PostgreSQL · Next.js · Stripe  
-
-🔗 Frontend:  
+🔗 Frontend  
 https://github.com/alangt22/Frontend-BarberPRO  
 
-🔗 Backend:  
+🔗 Backend  
 https://github.com/alangt22/Backend-BarberPRO  
 
-🌐 Deploy:  
+🌐 Deploy  
 https://frontend-barber-pro.vercel.app/
 
 ---
 
 ## 📅 AgendaPRO — SaaS de Agendamento Online
 
-Plataforma SaaS para gestão de agendamentos com plano gratuito e plano PRO.
+Plataforma SaaS para agendamentos com plano gratuito e plano PRO.
 
-### 🔹 Principais Implementações
+### Principais Implementações
 
 - Sistema completo de horários e serviços  
 - Modelo Freemium com upgrade automático  
 - Integração com Stripe (subscriptions + webhooks)  
 - Autenticação com NextAuth  
-- Validação robusta com Zod  
-- Arquitetura com Server Components  
+- Validação com Zod  
+- Server Components  
 - SEO otimizado  
 
-### 🛠 Stack
+### Stack
+Next.js · TypeScript · Prisma · PostgreSQL · Stripe · TailwindCSS  
 
-Next.js · TypeScript · Prisma · PostgreSQL · Stripe · Tailwind · Shadcn UI  
-
-🌐 Deploy:  
+🌐 Deploy  
 https://www.agendapro.dev/
 
-🔗 Repositório:  
+🔗 Repositório  
 https://github.com/alangt22/Agenda-Pro  
 
 ---
 
----
+## 🍕 Pizzaria App — Sistema de Pedidos (Web + Mobile)
 
-## 🍕 Pizzaria App — Sistema de Pedidos Online
+Sistema integrado de pedidos com aplicação Web para clientes e App Mobile para garçons.
 
-Aplicação frontend para gerenciamento e realização de pedidos em uma pizzaria, com foco em usabilidade, performance e organização de estado.
+### Web (Cliente)
 
-### 🔹 Principais Implementações
+- Interface responsiva  
+- Consumo de API REST  
+- Autenticação  
+- Gerenciamento de estado com Context API  
+- Componentização modular  
 
-- Interface moderna e responsiva  
-- Consumo de API para listagem e criação de pedidos  
-- Gerenciamento de estado da aplicação  
-- Autenticação de usuário  
-- Validação de formulários  
-- Organização modular de componentes  
+**Stack:**  
+React · TypeScript · TailwindCSS · Axios  
 
-### 🛠 Stack
-
-React · TypeScript · Context API · TailwindCSS · Axios  
-
-🔗 Frontend:  
+🔗 Frontend  
 https://github.com/alangt22/Pizzaria-frontend  
 
-🔗 Backend:  
+🔗 Backend  
 https://github.com/alangt22/Pizzaria-Backend  
 
-🌐 Deploy:  
+🌐 Deploy  
 https://pizzaria-web-teal.vercel.app/
 
+### Mobile (Garçom)
 
+Aplicativo interno para registro de pedidos por mesa.
+
+- Login autenticado  
+- Criação e envio de pedidos  
+- Integração direta com API  
+
+**Stack:**  
+React Native · TypeScript · Axios  
+
+🔗 Repositório  
+https://github.com/alangt22/Pizzaria-mobile  
+
+---
 
 # 📬 Contato
 
