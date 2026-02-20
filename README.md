@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Next.js • TypeScript • React • Node.js • PostgreSQL • SaaS Architecture
+  Next.js • TypeScript • React • Node.js • PostgreSQL 
 </p>
 
 ---
